@@ -31,4 +31,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:24.2.1'
     testCompile 'junit:junit:4.12'
     compile 'com.google.guava:guava:20.0'
+    compile 'com.qiniu:happy-dns:0.2.+'
+    compile 'com.qiniu.pili:pili-android-qos:0.8.+'
 }
